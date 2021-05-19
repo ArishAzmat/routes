@@ -4,7 +4,7 @@ function about2() {
     return (
         <div>
             <h1>About 2</h1>
-            <p>you can see how to url changes respectively with BrowserRouter, HashRouter, MemoryRouter</p>
+            <p>you can see how the url changes respectively with BrowserRouter, HashRouter, MemoryRouter</p>
         </div>
     )
 }
